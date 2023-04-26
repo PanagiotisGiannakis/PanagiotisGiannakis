@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PanagiotisGiannakis
 - 👀 I’m interested to learn more about programming from your experiences.
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning HTML,CSS,JavaScript!
 - 💞️ I’m looking to collaborate on a basic project for begginers and get experience from that.
 - 📫 How to reach me : pg4797@hotmail.com .
 
